@@ -1,6 +1,6 @@
 # Hello World!, I'm chukwuka solomon 👋:
 
-Am an experienced web developer with a passion for innovation across industries. Proficient in various technologies including NodeJS, React, C# , Postgres, MongoDB, and more. Skilled in both backend and frontend consistently delivering exceptional software solutions.:
+I am an experienced Software developer with a passion for innovation across industries. Proficient in various technologies including NodeJS, React, C#, Postgres, MongoDB, Unity, and more. Skilled in backend, frontend, and Game  consistently delivering exceptional software solutions.:
 
 ## 🚀 About Me
 
